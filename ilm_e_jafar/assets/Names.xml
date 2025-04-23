@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<SNo>1</SNo>
+		<English>Allah</English>
+		<Arabic>الله</Arabic>
+		<Value>66</Value>
+		<Type>Jalali</Type>
+		<Meaning>Allah</Meaning>
+	</record>
+	<record>
+		<SNo>2</SNo>
+		<English>Ar Rahman</English>
+		<Arabic>رحمن</Arabic>
+		<Value>298</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Most Gracious</Meaning>
+	</record>
+	<record>
+		<SNo>3</SNo>
+		<English>Ar Raheem</English>
+		<Arabic>رحيم</Arabic>
+		<Value>258</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Most Merciful</Meaning>
+	</record>
+	<record>
+		<SNo>4</SNo>
+		<English>Al Malik</English>
+		<Arabic>ملك</Arabic>
+		<Value>90</Value>
+		<Type>Mix</Type>
+		<Meaning>The King</Meaning>
+	</record>
+	<record>
+		<SNo>5</SNo>
+		<English>Al Quddus</English>
+		<Arabic>قدوس</Arabic>
+		<Value>170</Value>
+		<Type>Mix</Type>
+		<Meaning>The Most Holy</Meaning>
+	</record>
+	<record>
+		<SNo>6</SNo>
+		<English>As Salam</English>
+		<Arabic>سلام</Arabic>
+		<Value>131</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Ultimate Provider of Peace</Meaning>
+	</record>
+	<record>
+		<SNo>7</SNo>
+		<English>Al Mu'min</English>
+		<Arabic>مؤمن</Arabic>
+		<Value>136</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Guardian of Faith</Meaning>
+	</record>
+	<record>
+		<SNo>8</SNo>
+		<English>Al Muhaymin</English>
+		<Arabic>مهيمن</Arabic>
+		<Value>145</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Guardian, the Preserver</Meaning>
+	</record>
+	<record>
+		<SNo>9</SNo>
+		<English>Al Aziz</English>
+		<Arabic>عزيز</Arabic>
+		<Value>94</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Almighty, the Self Sufficient</Meaning>
+	</record>
+	<record>
+		<SNo>10</SNo>
+		<English>Al Jabbaar</English>
+		<Arabic>جبار</Arabic>
+		<Value>206</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Compeller</Meaning>
+	</record>
+	<record>
+		<SNo>11</SNo>
+		<English>Al Mutakabbir</English>
+		<Arabic>ْمُتَكَبِّرُ</Arabic>
+		<Value>662</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Dominant one</Meaning>
+	</record>
+	<record>
+		<SNo>12</SNo>
+		<English>Al Khaaliq</English>
+		<Arabic>خالق</Arabic>
+		<Value>731</Value>
+		<Type>Mix</Type>
+		<Meaning>The Creator</Meaning>
+	</record>
+	<record>
+		<SNo>13</SNo>
+		<English>Al Baari</English>
+		<Arabic>بارئ</Arabic>
+		<Value>213</Value>
+		<Type>Mix</Type>
+		<Meaning>The Maker</Meaning>
+	</record>
+	<record>
+		<SNo>14</SNo>
+		<English>Al Musawwir</English>
+		<Arabic>مصور</Arabic>
+		<Value>336</Value>
+		<Type>Mix</Type>
+		<Meaning>The Fashioner of Forms</Meaning>
+	</record>
+	<record>
+		<SNo>15</SNo>
+		<English>Al Ghaffaar</English>
+		<Arabic>غفار</Arabic>
+		<Value>1281</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Ever-Forgiving</Meaning>
+	</record>
+	<record>
+		<SNo>16</SNo>
+		<English>Al Qahhaar</English>
+		<Arabic>قهار</Arabic>
+		<Value>306</Value>
+		<Type>Jalali</Type>
+		<Meaning>The All Subduer</Meaning>
+	</record>
+	<record>
+		<SNo>17</SNo>
+		<English>Al Wahhaab</English>
+		<Arabic>وهاب</Arabic>
+		<Value>14</Value>
+		<Type>Mix</Type>
+		<Meaning>The Bestower</Meaning>
+	</record>
+	<record>
+		<SNo>18</SNo>
+		<English>Ar Razzaaq</English>
+		<Arabic>رزاق</Arabic>
+		<Value>308</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Ever-Providing, The Sustainer</Meaning>
+	</record>
+	<record>
+		<SNo>19</SNo>
+		<English>Al Fattaah</English>
+		<Arabic>فتاح</Arabic>
+		<Value>489</Value>
+		<Type>Mix</Type>
+		<Meaning>The Ultimate Judge, The Opener of All Portals, the Victory Giver</Meaning>
+	</record>
+	<record>
+		<SNo>20</SNo>
+		<English>Al Alim</English>
+		<Arabic>عليم</Arabic>
+		<Value>150</Value>
+		<Type>Mix</Type>
+		<Meaning>The All-Knowing, the Omniscient</Meaning>
+	</record>
+	<record>
+		<SNo>21</SNo>
+		<English>Al Qaabidh</English>
+		<Arabic>قابض</Arabic>
+		<Value>903</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Restrainer, the Straightener</Meaning>
+	</record>
+	<record>
+		<SNo>22</SNo>
+		<English>Al Baasit</English>
+		<Arabic>باسط</Arabic>
+		<Value>72</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Expander, the Munificent</Meaning>
+	</record>
+	<record>
+		<SNo>23</SNo>
+		<English>Al Khaafidh</English>
+		<Arabic>خافض</Arabic>
+		<Value>1481</Value>
+		<Type>Mix</Type>
+		<Meaning>The Abaser, The Demeanor</Meaning>
+	</record>
+	<record>
+		<SNo>24</SNo>
+		<English>Ar Raafi'</English>
+		<Arabic>رافع</Arabic>
+		<Value>351</Value>
+		<Type>Mix</Type>
+		<Meaning>The Exalter</Meaning>
+	</record>
+	<record>
+		<SNo>25</SNo>
+		<English>Al Mu'izz</English>
+		<Arabic>معز</Arabic>
+		<Value>117</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Giver of Honour</Meaning>
+	</record>
+	<record>
+		<SNo>26</SNo>
+		<English>Al Muzil</English>
+		<Arabic>مذل</Arabic>
+		<Value>770</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Giver of Dishonor</Meaning>
+	</record>
+	<record>
+		<SNo>27</SNo>
+		<English>As Sami'</English>
+		<Arabic>سميع</Arabic>
+		<Value>180</Value>
+		<Type>Mix</Type>
+		<Meaning>The All-Hearing</Meaning>
+	</record>
+	<record>
+		<SNo>28</SNo>
+		<English>Al Basir</English>
+		<Arabic>بصير</Arabic>
+		<Value>302</Value>
+		<Type>Mix</Type>
+		<Meaning>The All-Seeing</Meaning>
+	</record>
+	<record>
+		<SNo>29</SNo>
+		<English>Al Hakam</English>
+		<Arabic>حكم</Arabic>
+		<Value>68</Value>
+		<Type>Mix</Type>
+		<Meaning>The Judge, the Ultimate Arbiter</Meaning>
+	</record>
+	<record>
+		<SNo>30</SNo>
+		<English>Al 'Adl</English>
+		<Arabic>عدل</Arabic>
+		<Value>104</Value>
+		<Type>Mix</Type>
+		<Meaning>The Utterly Just</Meaning>
+	</record>
+	<record>
+		<SNo>31</SNo>
+		<English>Al Latif</English>
+		<Arabic>لطيف</Arabic>
+		<Value>129</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Kind</Meaning>
+	</record>
+	<record>
+		<SNo>32</SNo>
+		<English>Al Khabir</English>
+		<Arabic>خبير</Arabic>
+		<Value>812</Value>
+		<Type>Mix</Type>
+		<Meaning>The All-Aware</Meaning>
+	</record>
+	<record>
+		<SNo>33</SNo>
+		<English>Al Halim</English>
+		<Arabic>حليم</Arabic>
+		<Value>88</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Forbearer, The Indulgent</Meaning>
+	</record>
+	<record>
+		<SNo>34</SNo>
+		<English>Al-‘Adheem</English>
+		<Arabic>عظيم</Arabic>
+		<Value>1020</Value>
+		<Type>Mix</Type>
+		<Meaning>The Magnificent, the Infinite</Meaning>
+	</record>
+	<record>
+		<SNo>35</SNo>
+		<English>Al Ghafur</English>
+		<Arabic>غفور</Arabic>
+		<Value>1286</Value>
+		<Type>Jamali</Type>
+		<Meaning>The All-Forgiving</Meaning>
+	</record>
+	<record>
+		<SNo>36</SNo>
+		<English>Ash Shakur</English>
+		<Arabic>شكور</Arabic>
+		<Value>526</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Grateful</Meaning>
+	</record>
+	<record>
+		<SNo>37</SNo>
+		<English>Al Ali</English>
+		<Arabic>علي</Arabic>
+		<Value>110</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Sublimely Exalted</Meaning>
+	</record>
+	<record>
+		<SNo>38</SNo>
+		<English>Al Kabir</English>
+		<Arabic>كبير</Arabic>
+		<Value>232</Value>
+		<Type>Mix</Type>
+		<Meaning>The Great</Meaning>
+	</record>
+	<record>
+		<SNo>39</SNo>
+		<English>Al Hafidh</English>
+		<Arabic>حفيظ</Arabic>
+		<Value>998</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Preserver, The Protector</Meaning>
+	</record>
+	<record>
+		<SNo>40</SNo>
+		<English>Al Muqit</English>
+		<Arabic>مقيت</Arabic>
+		<Value>550</Value>
+		<Type>Mix</Type>
+		<Meaning>The Nourisher</Meaning>
+	</record>
+	<record>
+		<SNo>41</SNo>
+		<English>Al Hasib</English>
+		<Arabic>حسيب</Arabic>
+		<Value>80</Value>
+		<Type>Mix</Type>
+		<Meaning>The Reckoner</Meaning>
+	</record>
+	<record>
+		<SNo>42</SNo>
+		<English>Al Jalil</English>
+		<Arabic>جليل</Arabic>
+		<Value>73</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Majestic</Meaning>
+	</record>
+	<record>
+		<SNo>43</SNo>
+		<English>Al Karim</English>
+		<Arabic>كريم</Arabic>
+		<Value>270</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Bountiful, the Generous</Meaning>
+	</record>
+	<record>
+		<SNo>44</SNo>
+		<English>Ar Raqib</English>
+		<Arabic>رقيب</Arabic>
+		<Value>312</Value>
+		<Type>Mix</Type>
+		<Meaning>The Watchful</Meaning>
+	</record>
+	<record>
+		<SNo>45</SNo>
+		<English>Al Mujib</English>
+		<Arabic>مجيب</Arabic>
+		<Value>55</Value>
+		<Type>Mix</Type>
+		<Meaning>The Responsive, the Answerer</Meaning>
+	</record>
+	<record>
+		<SNo>46</SNo>
+		<English>Al Wasi'</English>
+		<Arabic>واسع</Arabic>
+		<Value>137</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Vast, the All Encompassing</Meaning>
+	</record>
+	<record>
+		<SNo>47</SNo>
+		<English>Al Hakim</English>
+		<Arabic>حكيم</Arabic>
+		<Value>78</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Wise</Meaning>
+	</record>
+	<record>
+		<SNo>48</SNo>
+		<English>Al Wadud</English>
+		<Arabic>ودود</Arabic>
+		<Value>20</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Loving, the Kind One</Meaning>
+	</record>
+	<record>
+		<SNo>49</SNo>
+		<English>Al Majid</English>
+		<Arabic>مجيد</Arabic>
+		<Value>57</Value>
+		<Type>Mix</Type>
+		<Meaning>The All Glorious</Meaning>
+	</record>
+	<record>
+		<SNo>50</SNo>
+		<English>Al Ba'ith</English>
+		<Arabic>باعث</Arabic>
+		<Value>573</Value>
+		<Type>Mix</Type>
+		<Meaning>The Raiser of the Dead</Meaning>
+	</record>
+	<record>
+		<SNo>51</SNo>
+		<English>Ash Shaheed</English>
+		<Arabic>شهيد</Arabic>
+		<Value>319</Value>
+		<Type>Mix</Type>
+		<Meaning>The Witness</Meaning>
+	</record>
+	<record>
+		<SNo>52</SNo>
+		<English>Al Haqq</English>
+		<Arabic>حق</Arabic>
+		<Value>108</Value>
+		<Type>Mix</Type>
+		<Meaning>The Truth, the Real</Meaning>
+	</record>
+	<record>
+		<SNo>53</SNo>
+		<English>Al Wakil</English>
+		<Arabic>وكيل</Arabic>
+		<Value>66</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Trustee, the Dependable</Meaning>
+	</record>
+	<record>
+		<SNo>54</SNo>
+		<English>Al Qawiyy</English>
+		<Arabic>قوي</Arabic>
+		<Value>116</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Strong</Meaning>
+	</record>
+	<record>
+		<SNo>55</SNo>
+		<English>Al Mateen</English>
+		<Arabic>متين</Arabic>
+		<Value>500</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Firm, the Steadfast</Meaning>
+	</record>
+	<record>
+		<SNo>56</SNo>
+		<English>Al Wali</English>
+		<Arabic>ولي</Arabic>
+		<Value>46</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Protecting Friend, Patron, and Supporter</Meaning>
+	</record>
+	<record>
+		<SNo>57</SNo>
+		<English>Al Hamidu</English>
+		<Arabic>حميد</Arabic>
+		<Value>72</Value>
+		<Type>Mix</Type>
+		<Meaning>The All Praise Worthy</Meaning>
+	</record>
+	<record>
+		<SNo>58</SNo>
+		<English>Al Muhsi</English>
+		<Arabic>محصي</Arabic>
+		<Value>148</Value>
+		<Type>Mix</Type>
+		<Meaning>The Accounter, The Numberer of All</Meaning>
+	</record>
+	<record>
+		<SNo>59</SNo>
+		<English>Al Mubdi</English>
+		<Arabic>مبدئ</Arabic>
+		<Value>56</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Producer, Originator, and Initiator of all</Meaning>
+	</record>
+	<record>
+		<SNo>60</SNo>
+		<English>Al Mu'id</English>
+		<Arabic>معيد</Arabic>
+		<Value>124</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Reinstater Who Brings Back All</Meaning>
+	</record>
+	<record>
+		<SNo>61</SNo>
+		<English>Al Muhyi</English>
+		<Arabic>محيي</Arabic>
+		<Value>68</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Giver of Life</Meaning>
+	</record>
+	<record>
+		<SNo>62</SNo>
+		<English>Al Mumit</English>
+		<Arabic>مميت</Arabic>
+		<Value>490</Value>
+		<Type>Mix</Type>
+		<Meaning>The Bringer of Death, the Destroyer</Meaning>
+	</record>
+	<record>
+		<SNo>63</SNo>
+		<English>Al Hayy</English>
+		<Arabic>حي</Arabic>
+		<Value>18</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Ever Living</Meaning>
+	</record>
+	<record>
+		<SNo>64</SNo>
+		<English>Al Qayyum</English>
+		<Arabic>قيوم</Arabic>
+		<Value>156</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Self Subsisting Sustainer of All</Meaning>
+	</record>
+	<record>
+		<SNo>65</SNo>
+		<English>Al Waajid</English>
+		<Arabic>واجد</Arabic>
+		<Value>14</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Perceiver, the Finder, the Unfailing</Meaning>
+	</record>
+	<record>
+		<SNo>66</SNo>
+		<English>Al Maajid</English>
+		<Arabic>ماجد</Arabic>
+		<Value>48</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Illustrious, the Magnificent</Meaning>
+	</record>
+	<record>
+		<SNo>67</SNo>
+		<English>Al Waahid</English>
+		<Arabic>واحد</Arabic>
+		<Value>19</Value>
+		<Type>Mix</Type>
+		<Meaning>The One, the All Inclusive, the Indivisible</Meaning>
+	</record>
+	<record>
+		<SNo>68</SNo>
+		<English>Al Ahad</English>
+		<Arabic>احد</Arabic>
+		<Value>13</Value>
+		<Type>Jamali</Type>
+		<Meaning>The One, the Indivisible</Meaning>
+	</record>
+	<record>
+		<SNo>69</SNo>
+		<English>As Samad</English>
+		<Arabic>صمد</Arabic>
+		<Value>134</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Everlasting,The Eternal Refuge</Meaning>
+	</record>
+	<record>
+		<SNo>70</SNo>
+		<English>Al Qaadir</English>
+		<Arabic>قادر</Arabic>
+		<Value>305</Value>
+		<Type>Jalali</Type>
+		<Meaning>The All-Capable, The Most Able, The Most Powerful</Meaning>
+	</record>
+	<record>
+		<SNo>71</SNo>
+		<English>Al Muqtadir</English>
+		<Arabic>مقتدر</Arabic>
+		<Value>744</Value>
+		<Type>Jalali</Type>
+		<Meaning>The All Determiner, the Dominant</Meaning>
+	</record>
+	<record>
+		<SNo>72</SNo>
+		<English>Al Muqaddim</English>
+		<Arabic>مقدم</Arabic>
+		<Value>184</Value>
+		<Type>Mix</Type>
+		<Meaning>The Expediter, He who brings forward</Meaning>
+	</record>
+	<record>
+		<SNo>73</SNo>
+		<English>Al Mu'akhkhir</English>
+		<Arabic>مؤخر</Arabic>
+		<Value>846</Value>
+		<Type>Mix</Type>
+		<Meaning>The Delayer, He who brings backwards</Meaning>
+	</record>
+	<record>
+		<SNo>74</SNo>
+		<English>Al Awwal</English>
+		<Arabic>أول</Arabic>
+		<Value>37</Value>
+		<Type>Mix</Type>
+		<Meaning>The First</Meaning>
+	</record>
+	<record>
+		<SNo>75</SNo>
+		<English>Al Aakhir</English>
+		<Arabic>آخر</Arabic>
+		<Value>801</Value>
+		<Type>Mix</Type>
+		<Meaning>The Last</Meaning>
+	</record>
+	<record>
+		<SNo>76</SNo>
+		<English>Az Dhaahir</English>
+		<Arabic>ظاهر</Arabic>
+		<Value>1106</Value>
+		<Type>Mix</Type>
+		<Meaning>The Manifest; the All Victorious</Meaning>
+	</record>
+	<record>
+		<SNo>77</SNo>
+		<English>Al Baatin</English>
+		<Arabic>باطن</Arabic>
+		<Value>62</Value>
+		<Type>Mix</Type>
+		<Meaning>The Hidden; the All Encompassing</Meaning>
+	</record>
+	<record>
+		<SNo>78</SNo>
+		<English>Al Waali</English>
+		<Arabic>والي</Arabic>
+		<Value>47</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Patron</Meaning>
+	</record>
+	<record>
+		<SNo>79</SNo>
+		<English>Al Muta'ali</English>
+		<Arabic>متعالي</Arabic>
+		<Value>541</Value>
+		<Type>Mix</Type>
+		<Meaning>The Self Exalted</Meaning>
+	</record>
+	<record>
+		<SNo>80</SNo>
+		<English>Al Barr</English>
+		<Arabic>بر</Arabic>
+		<Value>202</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Most Kind and Righteous</Meaning>
+	</record>
+	<record>
+		<SNo>81</SNo>
+		<English>At Tawwaab</English>
+		<Arabic>تواب</Arabic>
+		<Value>409</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Ever-Pardoning, Ever Relenting</Meaning>
+	</record>
+	<record>
+		<SNo>82</SNo>
+		<English>Al Muntaqim</English>
+		<Arabic>منتقم</Arabic>
+		<Value>630</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Avenger</Meaning>
+	</record>
+	<record>
+		<SNo>83</SNo>
+		<English>Al 'Afuww</English>
+		<Arabic>عفو</Arabic>
+		<Value>156</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Pardoner, The Forgiver</Meaning>
+	</record>
+	<record>
+		<SNo>84</SNo>
+		<English>Ar Ra'uf</English>
+		<Arabic>رؤوف</Arabic>
+		<Value>286</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Clement, The Compassionate, The All-Pitying</Meaning>
+	</record>
+	<record>
+		<SNo>85</SNo>
+		<English>Malik Al Mulk</English>
+		<Arabic>مالك الملك</Arabic>
+		<Value>212</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Owner of All Sovereignty</Meaning>
+	</record>
+	<record>
+		<SNo>86</SNo>
+		<English>Dhual Jalal wa Al Ikram</English>
+		<Arabic>ذو الجلال والإكرام</Arabic>
+		<Value>1100</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Lord of Majesty and Generosity</Meaning>
+	</record>
+	<record>
+		<SNo>87</SNo>
+		<English>Al Muqsit</English>
+		<Arabic>مقسط</Arabic>
+		<Value>209</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Equitable, the Requiter</Meaning>
+	</record>
+	<record>
+		<SNo>88</SNo>
+		<English>Al Jaami'</English>
+		<Arabic>جامع</Arabic>
+		<Value>114</Value>
+		<Type>Mix</Type>
+		<Meaning>The Gatherer, the Unifier</Meaning>
+	</record>
+	<record>
+		<SNo>89</SNo>
+		<English>Al Ghani</English>
+		<Arabic>غني</Arabic>
+		<Value>1060</Value>
+		<Type>Mix</Type>
+		<Meaning>The All Rich, the Independent</Meaning>
+	</record>
+	<record>
+		<SNo>90</SNo>
+		<English>Al Mughni</English>
+		<Arabic>مغني</Arabic>
+		<Value>1100</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Enricher, the Emancipator</Meaning>
+	</record>
+	<record>
+		<SNo>91</SNo>
+		<English>Al Mani'</English>
+		<Arabic>مانع</Arabic>
+		<Value>161</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Withholder, the Shielder, the Defender</Meaning>
+	</record>
+	<record>
+		<SNo>92</SNo>
+		<English>Ad Dharr</English>
+		<Arabic>ضآر</Arabic>
+		<Value>1001</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Distresser</Meaning>
+	</record>
+	<record>
+		<SNo>93</SNo>
+		<English>An Nafi'</English>
+		<Arabic>نافع</Arabic>
+		<Value>201</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Propitious, the Benefactor</Meaning>
+	</record>
+	<record>
+		<SNo>94</SNo>
+		<English>An Nur</English>
+		<Arabic>نور</Arabic>
+		<Value>256</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Light</Meaning>
+	</record>
+	<record>
+		<SNo>95</SNo>
+		<English>Al Hadi</English>
+		<Arabic>هادي</Arabic>
+		<Value>20</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Guide</Meaning>
+	</record>
+	<record>
+		<SNo>96</SNo>
+		<English>Al Badi'i</English>
+		<Arabic>بديع</Arabic>
+		<Value>86</Value>
+		<Type>Mix</Type>
+		<Meaning>Incomparable, the Originator</Meaning>
+	</record>
+	<record>
+		<SNo>97</SNo>
+		<English>Al Baaqi</English>
+		<Arabic>باقي</Arabic>
+		<Value>113</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Ever Enduring and Immutable</Meaning>
+	</record>
+	<record>
+		<SNo>98</SNo>
+		<English>Al Waarith</English>
+		<Arabic>وارث</Arabic>
+		<Value>707</Value>
+		<Type>Jalali</Type>
+		<Meaning>The Heir, the Inheritor of All</Meaning>
+	</record>
+	<record>
+		<SNo>99</SNo>
+		<English>Ar Rashid</English>
+		<Arabic>رشيد</Arabic>
+		<Value>514</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Guide, Infallible Teacher, and Knower</Meaning>
+	</record>
+	<record>
+		<SNo>100</SNo>
+		<English>Al Saboor</English>
+		<Arabic>صبور</Arabic>
+		<Value>298</Value>
+		<Type>Jamali</Type>
+		<Meaning>The Forbearing, The Patient</Meaning>
+	</record>
+	<record>
+		<SNo>101</SNo>
+		<English>Al Dayyan</English>
+		<Arabic>ديان</Arabic>
+		<Value>65</Value>
+		<Type>Mix</Type>
+		<Meaning>The one who recompenses</Meaning>
+	</record>
+	<record>
+		<SNo>102</SNo>
+		<English>Al Badduh</English>
+		<Arabic>بدوح</Arabic>
+		<Value>20</Value>
+		<Type>Mix</Type>
+		<Meaning>Al Badduh</Meaning>
+	</record>
+	<record>
+		<SNo>103</SNo>
+		<English>Al Naeem</English>
+		<Arabic>نعيم</Arabic>
+		<Value>170</Value>
+		<Type>Jamali</Type>
+		<Meaning>The one who blesses</Meaning>
+	</record>
+	<record>
+		<SNo>104</SNo>
+		<English>Al Kafeel</English>
+		<Arabic>كفيل</Arabic>
+		<Value>140</Value>
+		<Type>Jamali</Type>
+		<Meaning>The one who takes care of</Meaning>
+	</record>
+	<record>
+		<SNo>105</SNo>
+		<English>Al Mo'uti</English>
+		<Arabic>معطي</Arabic>
+		<Value>129</Value>
+		<Type>Jamali</Type>
+		<Meaning>The one who gives</Meaning>
+	</record>
+	<record>
+		<SNo>106</SNo>
+		<English>Al Moughees</English>
+		<Arabic>مغیث</Arabic>
+		<Value>1550</Value>
+		<Type>Jamali</Type>
+	</record>
+	<record>
+		<SNo>107</SNo>
+		<English>Al Atoof</English>
+		<Arabic>عطوف</Arabic>
+		<Value>165</Value>
+		<Type>Jamali</Type>
+	</record>
+	<record>
+		<SNo>108</SNo>
+		<English>Al Arham Al Rahemeen</English>
+		<Arabic>أرحم الرحيمين</Arabic>
+		<Value>619</Value>
+		<Type>Jamali</Type>
+	</record>
+	<record>
+		<SNo>109</SNo>
+		<English>Al Ahkum al Hakemeen</English>
+		<Arabic>أحكم الحاكمين</Arabic>
+		<Value>229</Value>
+		<Type>Jalali</Type>
+	</record>
+	<record>
+		<SNo>110</SNo>
+		<English>Al Moula</English>
+		<Arabic>مولُی</Arabic>
+		<Value>86</Value>
+		<Type>Jamali</Type>
+	</record>
+	<record>
+		<SNo>111</SNo>
+		<English>Al Hoo</English>
+		<Arabic>ھو</Arabic>
+		<Value>11</Value>
+		<Type>Jalali</Type>
+	</record>
+	<record>
+		<SNo>112</SNo>
+		<English>Al Naseer</English>
+		<Arabic>نصیر</Arabic>
+		<Value>350</Value>
+		<Type>Jamali</Type>
+	</record>
+	<record>
+		<SNo>113</SNo>
+		<English>Al Zul Rahmah</English>
+		<Arabic>ذو الرحمہ</Arabic>
+		<Value>990</Value>
+		<Type>Jamali</Type>
+	</record>
+	<record>
+		<SNo>114</SNo>
+		<English>Al Zul Rahamat</English>
+		<Arabic>زور رحمت</Arabic>
+		<Value>1385</Value>
+		<Type>Jamali</Type>
+	</record>
+	<record>
+		<SNo>115</SNo>
+		<English>Al Zit Taul</English>
+		<Arabic>ذی الطول</Arabic>
+		<Value>786</Value>
+		<Type>Jamali</Type>
+	</record>
+</records>
